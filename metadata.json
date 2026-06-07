@@ -1,0 +1,6 @@
+{
+  "name": "Sriperumbudur Connect",
+  "description": "Digital business directory and local community information platform for Sriperumbudur town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
